@@ -1,0 +1,9 @@
+{
+  "name": "app",
+  "version": "1.0.53",
+  "description": "store app releases",
+  "main": "index.js",
+  "repository": "https://github.com/murryfunny/app.git",
+  "author": "murryfunny@gmail.com",
+  "license": "MIT"
+}

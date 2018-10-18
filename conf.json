@@ -8,7 +8,7 @@
     "x86_size": "40.20M",
     "ios_size": "9.20M",
     "urge": false,
-    "logs": [
+    "logs": [ 
       "修复app一些紧要问题",
       "提升稳定性"
     ]

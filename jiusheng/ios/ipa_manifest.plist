@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ledou.betlottery</string>
+				<string>com.jiusheng.betlottery</string>
 				<key>bundle-version</key>
 				<string>1.0.54</string>
 				<key>kind</key>

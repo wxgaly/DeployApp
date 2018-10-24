@@ -18,9 +18,9 @@
     "site": "久盛网",
     "pushVersion": "1.0.57",
     "url": "https://raw.githubusercontent.com/wxgaly/DeployApp/master/jiusheng/",
-    "arm_size": "35.00M",
-    "x86_size": "40.20M",
-    "ios_size": "9.20M",
+    "arm_size": "34.10M",
+    "x86_size": "37.90M",
+    "ios_size": "9.60M",
     "urge": false,
     "logs": [ 
       "修复app一些紧要问题",
